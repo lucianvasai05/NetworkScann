@@ -8,3 +8,8 @@ catre utilizator
 -->functia print_tcp_header = contine o structura de tip tcphdr si una iphdr - afiseaza continul din header
 -->functia print_udp_header = contine o structura de tip udp hdr si una iphdr -afiseaza continul din header
 -->functia print_icmp_header = contine o structura de tip icmp  hdr si una iphdr- afiseaza continul din header
+
+
+
+In continuare urmeaza sortarea datelor si expunerea acestora pentru vizualizarea posibilelor anomalii aparute in timpul interceptarii!
+Revenim....
